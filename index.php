@@ -19,6 +19,7 @@
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body background="img/egipto.jpg">
+	
 <div class="container">
 	<div class="d-flex justify-content-center h-100">
 		<div class="card">

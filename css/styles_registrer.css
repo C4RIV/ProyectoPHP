@@ -1,17 +1,16 @@
 html{
-    background: url("background.jpg") no-repeat;
+    background: url("img/egipto.jpg") no-repeat;
 	background-size: cover;
     min-height: 100%;
 }
 
 body{
-    background:none;
+    background:;
 }
 
 #advanced-search-form{
     background-color: #fff;
     max-width: 800px;
-    margin: 160px auto 0;
     padding: 40px;
     color: #858b8e;
     box-shadow: 6px 6px 6px rgba(0,0,0,0.2);
