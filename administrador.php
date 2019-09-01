@@ -41,11 +41,25 @@
             </div>
             <div class="form-group">
                 <label for="category">Area</label>
-                <input type="text" class="form-control" placeholder="Area a Laborar" id="category">
+                <select class="form-control" name="opcionarea" id="category">
+                  <option>Producción Multimedia / Diseño Gráfico</option>
+                  <option>Administrativo</option>
+                  <option>Software</option>
+                  <option>Gerencia</option>
+                  <option>Pasante</option>
+                </select>
             </div>
             <div class="form-group">
                 <label for="education">Rol</label>
-                <input type="text" class="form-control" placeholder="Especifique Función" id="education">
+                <select class="form-control">
+                  <option>Diseñador</option>
+                  <option>Productor Multimedia</option>
+                  <option>Desarrollador</option>
+                  <option>Secretaria / Asistente</option>
+                  <option>Grente de Área</option>
+                  <option>Digitador/a</option>
+                  <option>FreeLancer</option>
+                </select>
             </div>
             <div class="form-group">
                 <label>Género</label>
